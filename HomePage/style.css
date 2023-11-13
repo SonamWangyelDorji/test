@@ -1,0 +1,383 @@
+.main-home-page {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-image: url(./img/main-home-page.gif);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.main-home-page .headers {
+  position: absolute;
+  width: 372px;
+  height: 22px;
+  top: 28px;
+  left: 873px;
+}
+
+.main-home-page .overlap-group {
+  position: absolute;
+  width: 182px;
+  height: 20px;
+  top: 2px;
+  left: 190px;
+}
+
+.main-home-page .div-wrapper {
+  position: absolute;
+  width: 95px;
+  height: 20px;
+  top: 0;
+  left: 0;
+}
+
+.main-home-page .text-wrapper {
+  position: absolute;
+  width: 95px;
+  height: 20px;
+  top: -1px;
+  left: 300px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main-home-page .text-wrapper:hover{
+  color: orange;
+}
+
+.main-home-page .contact {
+  position: absolute;
+  width: 95px;
+  height: 20px;
+  top: 0;
+  left: 86px;
+}
+
+.main-home-page .div {
+  position: absolute;
+  width: 95px;
+  top: -1px;
+  left: 300px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main-home-page .div:hover{
+  color: orange;
+}
+
+.main-home-page .about-me {
+  position: absolute;
+  width: 95px;
+  height: 20px;
+  top: 0;
+  left: 95px;
+}
+
+.main-home-page .welcome-to-my-web {
+  position: absolute;
+  width: 1px;
+  height: 39px;
+  top: 252px;
+  left: 452px;
+  overflow: hidden;
+}
+
+.main-home-page .p {
+  position: absolute;
+  width: 1009px;
+  height: 39px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #fc8888;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-home-page .kaggle-link {
+  width: 152px;
+  top: 272px;
+  left: 1134px;
+  position: absolute;
+  height: 150px;
+}
+
+.main-home-page .overlap {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.main-home-page .KAGGLE-COMP {
+  width: 150px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 150px;
+}
+
+
+.main-home-page .pngwing {
+  position: absolute;
+  width: 146px;
+  height: 150px;
+  top: 0;
+  left: 350px;
+  object-fit: cover;
+}
+
+.main-home-page .pngwing:hover{
+  transition: 1s;
+  opacity: 0;
+}
+
+.main-home-page .images1 {
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 350px;
+}
+
+.main-home-page .images:hover {
+  opacity: 1;
+}
+
+
+.main-home-page .text-wrapper-2 {
+  position: absolute;
+  width: 93px;
+  height: 108px;
+  top: 36px;
+  left: 26px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: transparent;
+  font-size: 128px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.main-home-page .github-link {
+  position: absolute;
+  width: 149px;
+  height: 136px;
+  top: 116px;
+  left: 1134px;
+}
+
+.main-home-page .overlap-2 {
+  position: absolute;
+  width: 147px;
+  height: 136px;
+}
+
+.main-home-page .github {
+  position: absolute;
+  width: 147px;
+  height: 136px;
+  top: 0;
+  left: 350px;
+  background-image: url(./img/github.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.main-home-page .github:hover{
+  opacity: 0;
+  transition: 1s;
+}
+
+.main-home-page .image {
+  position: absolute;
+  width: 146px;
+  height: 136px;
+  top: 0;
+  left: 350px;
+    opacity: 0;
+}
+.main-home-page .images2 {
+  opacity: 0;
+  position: absolute;
+  width: 140px;
+  height: 15px;
+  top: 0;
+  left: 180px;
+
+}
+.main-home-page .images2:hover {
+  opacity: 1;
+}
+.main-home-page .text-wrapper-3 {
+  position: absolute;
+  width: 67px;
+  height: 50px;
+  top: 43px;
+  left: 395px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: transparent;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.main-home-page .leetcode-link {
+  position: absolute;
+  width: 317px;
+  height: 80px;
+  top: 681px;
+  left: 94px;
+}
+
+.main-home-page .overlap-3 {
+  position: relative;
+  width: 315px;
+  height: 80px;
+  top: 175px;
+  left:120px;
+  background-image: url(./img/pngwing-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.main-home-page .overlap-3:hover {
+  background-image: url(./img/leetcode.png);
+}
+
+.main-home-page .text-wrapper-4 {
+  position: absolute;
+  width: 241px;
+  height: 52px;
+  top: 17px;
+  left: 59px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: transparent;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.main-home-page .photo {
+  top: 39px;
+  left: 135px;
+  border-radius: 10px;
+  background-image: url(./img/image-2023-10-18-23-29-53-2.png);
+  position: absolute;
+  width: 130px;
+  height: 150px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.main-home-page .overlap-4 {
+  position: absolute;
+  width: 220px;
+  height: 258px;
+  top: 207px;
+  left: -4px;
+}
+
+.main-home-page .photo-2 {
+  top: 25px;
+  left: 140px;
+  background-image: url(./img/image-2023-10-18-23-31-14-1-2.png);
+  position: absolute;
+  width: 130px;
+  height: 150px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.main-home-page .image-wrapper {
+  position: absolute;
+  width: 126px;
+  height: 144px;
+  top: 88px;
+  left: 2px;
+  transform: rotate(-1.5deg);
+}
+
+.main-home-page .img {
+  position: absolute;
+  width: 160px;
+  height: 170px;
+  top: 50px;
+  left: 20px;
+  transform: rotate(1.5deg);
+  object-fit: cover;
+}
+
+
+.main-home-page .arrow-down {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 761px;
+  left: 48%;
+  background-image: url(./img/icons8-arrow-64-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.main-home-page .know-more {
+  position: absolute;
+  width: 150px;
+  height: 30px;
+  top: 709px;
+  left: 45%;
+  animation: glow 2s infinite;
+}
+
+.main-home-page .text-wrapper-5 {
+  position: absolute;
+  width: 150px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff69b4, 0 0 15px #ff69b4, 0 0 20px #ff69b4;
+  animation: glow 2s infinite;
+}
+
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff69b4, 0 0 15px #ff69b4, 0 0 20px #ff69b4;
+ }
+  50% {
+    text-shadow: none;
+ }
+  100% {
+    text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff69b4, 0 0 15px #ff69b4, 0 0 20px #ff69b4;
+ }
+}
